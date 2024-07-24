@@ -1,6 +1,18 @@
 ## Tổng quan
 Dự án xây dựng hệ thống hỗ trợ thi trắc nghiệm và chấm điểm tự động
 
+## Các chức năng
+
+- Tạo câu hỏi có hình ảnh hoặc âm thanh, tạo câu hỏi bằng ChatGPT
+- Tạo đề thi, tạo và tham gia phòng thi 
+- Quản lý các metadata của câu hỏi và đề thi
+- Làm đề thi (chế độ ôn tập và chế độ tính giờ)
+- Xuất file pdf đề thi
+- Chấm điểm tự động từ ảnh chụp tờ đáp án
+- Kiểm duyệt đề thi, xử lý báo cáo
+- Quản trị hệ thống và quản lý vai trò, quyền của người dùng (đang phát triển)
+- Hệ thống thành tựu và báo cáo thống kê dữ liệu làm đề (đang phát triển)
+
 ## Các tác nhân của hệ thống:
 - Người dùng: Sử dụng hệ thống để khám phá ngân hàng câu hỏi và đề thi cũng như tự rèn luyện kiến thức của bản thân.
 - Người kiểm duyệt: Sử dụng hệ thống để kiểm duyệt chất lượng đề thi và xử lý các báo cáo.
