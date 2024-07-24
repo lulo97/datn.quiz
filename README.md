@@ -14,8 +14,8 @@ Cơ sở dữ liệu gồm 36 bảng với các bảng chính là:
 - User: Lưu thông tin người dùng
 - Quiz: Lưu đề thi
 - Question: Lưu câu hỏi
-- Play: Lưu dữ liệu làm đề thi
-<br>
+- Play: Lưu dữ liệu làm đề thi <br>
+
 ![Description of the image](imgs/TableNameDiagram.png)
 
 ## Công nghệ sử dụng
