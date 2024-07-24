@@ -15,14 +15,19 @@ Cơ sở dữ liệu gồm 36 bảng với các bảng chính là:
 - Quiz: Lưu đề thi
 - Question: Lưu câu hỏi
 - Play: Lưu dữ liệu làm đề thi
+<br>
 ![Description of the image](imgs/TableNameDiagram.png)
 
 ## Công nghệ sử dụng
-Phía máy khách: React
+
+Phía máy khách: React <br>
 - Mã nguồn: https://github.com/lulo97/datn.quiz.client
-Phía máy chủ: NodeJS
+
+Phía máy chủ: NodeJS <br>
 - Mã nguồn: https://github.com/lulo97/datn.quiz.server
+
 Cơ sở dữ liệu: MySQL
+
 Công nghệ khác: Typescript, Express, OpenCV, Socket.io
 
 
