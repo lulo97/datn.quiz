@@ -1,4 +1,5 @@
 ## Tổng quan
+
 Dự án xây dựng hệ thống hỗ trợ thi trắc nghiệm và chấm điểm tự động
 
 ## Các chức năng
@@ -14,14 +15,17 @@ Dự án xây dựng hệ thống hỗ trợ thi trắc nghiệm và chấm đi�
 - Hệ thống thành tựu và báo cáo thống kê dữ liệu làm đề (đang phát triển)
 
 ## Các tác nhân của hệ thống:
+
 - Người dùng: Sử dụng hệ thống để khám phá ngân hàng câu hỏi và đề thi cũng như tự rèn luyện kiến thức của bản thân.
 - Người kiểm duyệt: Sử dụng hệ thống để kiểm duyệt chất lượng đề thi và xử lý các báo cáo.
 - Administrator: Sử dụng hệ thống để quản lý toàn bộ nội dung trên hệ thống.
 
 ## Các Usecase của hệ thống:
+
 ![Description of the image](imgs/SystemUsecase.png)
 
 ## Biểu đồ cơ sở dữ liệu 
+
 Cơ sở dữ liệu gồm 36 bảng với các bảng chính là:
 - User: Lưu thông tin người dùng
 - Quiz: Lưu đề thi
@@ -42,4 +46,5 @@ Cơ sở dữ liệu: MySQL
 
 Công nghệ khác: Typescript, Express, OpenCV, Socket.io
 
-
+## Demo hệ thống
+- Youtube: https://www.youtube.com/watch?v=1eK8eDqI3uY
